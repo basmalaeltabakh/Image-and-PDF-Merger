@@ -5,8 +5,7 @@ https://github.com/user-attachments/assets/d913a22e-1f57-4e4d-b3eb-6b44eac65777
 
 
 This project is a **PDF and Image Merger Desktop Application** built using Python's **Tkinter** library.  
-It allows users to combine multiple image files (`PNG, JPG, JPEG, BMP, TIFF, GIF`) and PDF documents into a single PDF file.  
-The application also provides features for previewing files, reordering them, and deleting pages from PDFs before conversion.  
+It allows users to combine multiple image files (`PNG, JPG, JPEG, BMP, TIFF, GIF`) and PDF documents into a single PDF file. 
 
 👉 The project has been packaged as a **Desktop Application using PyInstaller**, and a **DesktopApp.rar file** is uploaded in the repository.  
 Anyone can simply download and run it without needing to install Python or dependencies.   
