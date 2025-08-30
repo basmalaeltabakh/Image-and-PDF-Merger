@@ -12,7 +12,7 @@ Anyone can simply download and run it without needing to install Python or depen
 
 ---
 
-## ✨ Features
+##  Features
 
 - **Merge Images and PDFs**  
   - Combine various image formats and PDF files into one consolidated PDF document.
@@ -43,7 +43,7 @@ Anyone can simply download and run it without needing to install Python or depen
 
 ---
 
-## 🛠️ Technologies Used
+##  Technologies Used
 
 - **Python 3**  
 - **Tkinter** → Graphical User Interface  
@@ -56,25 +56,25 @@ Anyone can simply download and run it without needing to install Python or depen
 
 ---
 
-## ▶️ Usage
+##  Usage
 
 ### 🔹 Run the prebuilt Desktop Application
 1. Download the `.rar` file from this repository.  
 2. Extract it.  
-3. Run the `.exe` file inside the folder. ✅  
+3. Run the `.exe` file inside the folder.   
 
 👉 **No Python installation required!**
 
 ---
 
-## 📥 Add Files
+##  Add Files
 - Click **"Add Images"** to select image files.  
 - Click **"Add PDF"** to select PDF files.  
 - Drag & drop image/PDF files directly into the listbox.  
 
 ---
 
-## 🗂️ Manage Files
+##  Manage Files
 - Select a file in the listbox to preview it.  
 - Use **Remove Selected** to delete a file.  
 - Use **Move Up / Move Down** to reorder files.  
@@ -82,18 +82,18 @@ Anyone can simply download and run it without needing to install Python or depen
 
 ---
 
-## 📑 Choose Output
+##  Choose Output
 - Click **"Choose output..."** to specify the output PDF file path.  
 - Select page size from dropdown (**Letter, A4, Legal**).  
 
 ---
 
-## ⚡ Convert
+##  Convert
 - Click **"Convert to PDF"** → progress bar shows merging progress.  
 
 ---
 
-## 🎨 Toggle Theme
+##  Toggle Theme
 - Switch between **light** and **dark** modes.  
 
 ---
